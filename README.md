@@ -93,9 +93,9 @@
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=你的用户名\&show_icons=true\&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=zyq1120\&show_icons=true\&theme=radical)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名\&layout=compact\&theme=radical)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyq1120\&layout=compact\&theme=radical)
 
 ---
 
